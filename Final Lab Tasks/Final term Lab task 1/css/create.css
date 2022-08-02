@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+body{
+   background: url(../fruit.jpg);
+   
+    
+}
+div.main{
+    width: 400px;
+    margin:100px auto 0px auto;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
+div.create{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow:2px 2px 15px rgba(0, 0, 0, 0.3) ;
+    color: #ffa;
+    margin: 40px;
+    padding: 10px;
+}
+
+.button{
+    background-color: #574caf; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin-left: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+  }
+  .back{background-color: #574caf; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin-left: 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+
+  }
+  .danger{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.943);
+    box-shadow:2px 2px 15px rgb(0, 0, 0) ;
+    color: rgb(255, 170, 170);
+    margin: 40px;
+    padding: 10px;
+  }
